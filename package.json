@@ -1,0 +1,13 @@
+{
+  "name": "bluestout-sections-mcp",
+  "version": "1.0.0",
+  "description": "Bluestout Sections Library — MCP Server",
+  "main": "src/worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
