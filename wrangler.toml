@@ -1,7 +1,4 @@
-name = "bluestout-sections-mcp"
+name = "bluestout-sections-suite"
 main = "src/worker.js"
 compatibility_date = "2024-11-01"
 compatibility_flags = ["nodejs_compat"]
-
-[vars]
-# GITHUB_TOKEN is set as a secret via: wrangler secret put GITHUB_TOKEN

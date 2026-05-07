@@ -3,8 +3,8 @@
  * Cloudflare Worker
  */
 
-const GITHUB_REPO = "bluestout/bluestout-sections-library";
-const GITHUB_BRANCH = "main";
+const GITHUB_REPO = "bluestout/bluestout-sections-suite";
+const GITHUB_BRANCH = "live";
 const GITHUB_API = "https://api.github.com";
 
 // ─── GitHub Helpers ───────────────────────────────────────────────────────────
